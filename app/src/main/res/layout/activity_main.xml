@@ -36,7 +36,23 @@
             android:layout_height="wrap_content"
             android:layout_weight="1"
             android:text="@string/btnAddColour"
-            android:textSize="24sp" />
+            android:textSize="16sp" />
+
+        <Button
+            android:id="@+id/buttonRemoveitem"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            android:text="@string/btnRemoveColour"
+            android:textSize="16sp" />
+
+        <Button
+            android:id="@+id/buttonUpdateitem"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            android:text="@string/btnUpdateColour"
+            android:textSize="16sp" />
     </LinearLayout>
 
     <ListView

@@ -3,5 +3,7 @@
     <string name="hintColour">Enter new colour</string>
     <string name="hintIndex">Enter position number</string>
     <string name="btnAddColour">ADD NEW COLOUR</string>
+    <string name="btnRemoveColour">REMOVE A COLOUR</string>
+    <string name="btnUpdateColour">UPDATE A COLOUR</string>
 
 </resources>
